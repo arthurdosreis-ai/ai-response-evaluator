@@ -1,3 +1,5 @@
+This project is part of my learning journey in AI and language-focused workflows.
+
 # AI Response Evaluator
 
 In this project, I explored how AI-generated responses can be evaluated in a simple and structured way.
