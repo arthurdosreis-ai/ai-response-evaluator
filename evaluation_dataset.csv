@@ -1,0 +1,3 @@
+question,response_a,response_b,best,justification
+How do I reset my password?,Go to setting and click reset password.,I like pizza.,"Response A is relevant to the question and directly answers the user´s request, while Response B is not relevant to the question.","Response A is relevant and directly answers the user´s question, while Response B isnot related to the request."
+What is AI?,AI is technology that allows computers to perform tasks that normally require human intelligence.,AI stands for Alien Intellinge,"Response A is relevant to the question and directly answers user´s request, while Respponse B is not relevant to the question.","Response A is relevant and directly answers user´s request, while Response B is not really related to the request."
